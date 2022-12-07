@@ -1,2 +1,6 @@
 this file is not empty
+
 edit from main
+=======
+edit from newbranch2
+
